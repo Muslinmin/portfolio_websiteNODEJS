@@ -1,0 +1,31 @@
+{
+  "name": "portfolio_websitenodejs",
+  "version": "1.0.0",
+  "description": "Simple Portfolio App\\",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "connect-flash": "*",
+    "express": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "express-handlebars": "*",
+    "multer": "*",
+    "moment": "*",
+    "mysql": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordMuze/portfolio_websiteNODEJS.git"
+  },
+  "author": "LordMuze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordMuze/portfolio_websiteNODEJS/issues"
+  },
+  "homepage": "https://github.com/LordMuze/portfolio_websiteNODEJS#readme"
+}
