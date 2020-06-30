@@ -5,7 +5,7 @@ var bodyParser = require('body-parser');
 var session = require('express-session');
 var multer = require('multer');
 var upload = multer({dest: './public/images/portfolio'});
-var flash = require('connect-flash');
+var flash = require('flash');
 var exphbs = require('express-handlebars');
 const { check, validationResult } = require('express-validator');
 

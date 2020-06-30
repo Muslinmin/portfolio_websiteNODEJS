@@ -10,12 +10,13 @@
     "body-parser": "*",
     "connect-flash": "*",
     "express": "*",
+    "express-handlebars": "*",
     "express-messages": "*",
     "express-session": "*",
     "express-validator": "*",
-    "express-handlebars": "*",
-    "multer": "*",
+    "flash": "^1.1.0",
     "moment": "*",
+    "multer": "*",
     "mysql": "*"
   },
   "repository": {
